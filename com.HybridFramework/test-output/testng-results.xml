@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="130" started-at="2021-12-13T17:18:39Z" finished-at="2021-12-13T17:18:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="130" started-at="2021-12-13T17:18:39Z" finished-at="2021-12-13T17:18:40Z">
+      <class name="com.tests.loginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tests.loginTest@57536d79]" name="setUp" is-config="true" duration-ms="19234" started-at="2021-12-13T17:18:20Z" finished-at="2021-12-13T17:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logInLable()[pri:0, instance:com.tests.loginTest@57536d79]" name="logInLable" duration-ms="35" started-at="2021-12-13T17:18:39Z" finished-at="2021-12-13T17:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInLable -->
+        <test-method status="PASS" signature="logInLogo()[pri:0, instance:com.tests.loginTest@57536d79]" name="logInLogo" duration-ms="62" started-at="2021-12-13T17:18:39Z" finished-at="2021-12-13T17:18:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInLogo -->
+        <test-method status="PASS" signature="logInTitle()[pri:0, instance:com.tests.loginTest@57536d79]" name="logInTitle" duration-ms="16" started-at="2021-12-13T17:18:40Z" finished-at="2021-12-13T17:18:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTitle -->
+      </class> <!-- com.tests.loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
